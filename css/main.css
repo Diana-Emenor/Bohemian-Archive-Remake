@@ -1,0 +1,32 @@
+body {
+	padding-top: 60px;
+}
+
+p, h2, a {
+	font-family: "Times New Roman", Times, serif;
+}
+
+p, a {
+	text-align: justify;
+}
+
+.bg-primary-ba {
+  --bs-primary-rgb-bg-ba: #D6C99F;
+  background-color: var(--bs-primary-rgb-bg-ba);
+}
+
+.bg-primary-nav-ba {
+	--bs-nav-rgb-ba: #B3551E;
+	background-color: var(--bs-nav-rgb-ba);
+}
+
+.bg-card-ba {
+	--bs-card-ba: #A0C0A8;
+	background-color: var(--bs-card-ba);
+}
+
+.bg-footer-ba {
+	--bs-footer-ba: #6E6444;
+	background-color: var(--bs-footer-ba);
+}
+
